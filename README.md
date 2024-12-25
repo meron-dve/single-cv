@@ -1,1 +1,1 @@
-https://github.com/meron-dve/single-cv
+[Check out my project](https://github.com/meron-dve/single-cv)
